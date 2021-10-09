@@ -6,7 +6,6 @@ import android.view.MotionEvent;
 import android.view.View;
 
 import androidx.recyclerview.widget.RecyclerView;
-
 /**
  * Created by deepanshu on 30/3/17.
  */
